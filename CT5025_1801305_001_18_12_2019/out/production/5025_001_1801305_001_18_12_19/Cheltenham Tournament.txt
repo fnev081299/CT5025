@@ -1,0 +1,4 @@
+ 1 : 3 Pts
+2 : 3 Pts
+q : 1 Pts
+Nick : 1 Pts
